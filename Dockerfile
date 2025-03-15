@@ -1,11 +1,11 @@
-# استخدام صورة Python الرسمية
+# استخدام صورة بايثون الرسمية
 FROM python:3.9
 
 # تحديد مجلد العمل داخل الحاوية
 WORKDIR /app
 
-# نسخ الملفات إلى الحاوية
-COPY . /app/
+# نسخ جميع الملفات إلى الحاوية
+COPY . .
 
 # تثبيت المتطلبات
 RUN pip install --no-cache-dir -r requirements.txt
