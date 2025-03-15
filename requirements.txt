@@ -1,0 +1,5 @@
+requests
+faker
+emoji
+pycountry
+telebot

@@ -1,0 +1,23 @@
+{
+    "RDCXO09P46QZ": {
+        "max_users": 2,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "00:01"
+    },
+    "L6O93RHYOZY7": {
+        "max_users": 2,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "00:01"
+    },
+    "9D6G2L2XWHLB": {
+        "max_users": 2,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "20:00"
+    }
+}
